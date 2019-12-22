@@ -1,5 +1,5 @@
 # hello-world
-JAFR - Just Another Friggin' Repository
+JAFR - Just Another Fuckin' Repository
 # -----
 A new adventurer into modding.
 Never created a mod, I'm not really here to do so. Yet I won't count it out if I get to a place where I feel comfortable with my knowledge level.
